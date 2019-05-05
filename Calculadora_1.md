@@ -1,5 +1,7 @@
 # Calculadora
-Simple calculator
+Simple calculator made with Java.
+
+
 import java.util.Scanner;
 
 public class Calcultaor {
